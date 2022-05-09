@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChrisJCastle93
-- ⚡ Growing connectivity partnerships by day at GetYourGuide, the world's leading online platform for booking tours, attractions, and activities worldwide
-- 👨‍💻 Learning full stack (MERN) by night at Ironhack Berlin
+- ⚡ Part of a back end engineering team by day, growing API partnerships at GetYourGuide - the world's leading online platform for booking tours, attractions, and activities worldwide
+- 👨‍💻 Full stack (MERN) developer by night
 - 📫 Reach me chrisjcastle93@gmail.com
 
 <!---
