@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ChrisJCastle93
-- ⚡ Part of a back end engineering team by day, growing API partnerships at GetYourGuide - the world's leading online platform for booking tours, attractions, and activities worldwide
-- 👨‍💻 Full stack (MERN) developer by night
+- 👨‍💻 Associate Full Stack Engineer @GetYourGuide
 - 📫 Reach me chrisjcastle93@gmail.com
 
 <!---
